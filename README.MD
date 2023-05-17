@@ -3,12 +3,15 @@ CODIGO PARA AUTOMATIZAR REGISTRO DE PONTO
 #install:
 
 pip install pyautogui
+
 pip install python-dotenv
 
 #.env
 
 criar arquivo com nome (.env) na mesma pasta do código contendo as seguintes informações:
+
 email = "seu_email_aqui"
+
 senha = "sua_senha_aqui"
 
 #mouse.py
